@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "302297053848",
+    "project_id": "practice7-883f2",
+    "storage_bucket": "practice7-883f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302297053848:android:16aec90649f6f0c410eeed",
+        "android_client_info": {
+          "package_name": "ru.mirea.fedorova.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302297053848-lroul66p8tq23nacipqlqsh6epu42rlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-ud1YjMcYp94lcw_IJ8wA3AT9lhMBNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302297053848-lroul66p8tq23nacipqlqsh6epu42rlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302297053848:android:8d0970c6dae5b24e10eeed",
+        "android_client_info": {
+          "package_name": "ru.mirea.fedorova.httpurlconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302297053848-lroul66p8tq23nacipqlqsh6epu42rlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-ud1YjMcYp94lcw_IJ8wA3AT9lhMBNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302297053848-lroul66p8tq23nacipqlqsh6epu42rlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
